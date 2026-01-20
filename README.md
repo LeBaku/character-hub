@@ -1,6 +1,6 @@
 # Character Hub
 
-Character Hub est un outil en ligne joueur-centric pour gérer des fiches de personnages de JdR.
+Character Hub est un outil en ligne joueur-centric pour gérer des fiches de personnages de JdR.  
 Il est pensé pour être :
 
 * indépendant de tout outil MJ ou VTT
@@ -80,3 +80,4 @@ Le serveur démarre par défaut sur : `http://localhost:5000`
 ## Licence
 
 À définir
+
